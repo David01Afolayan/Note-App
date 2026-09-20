@@ -2,7 +2,7 @@
 
 A clean, fast note-taking app for organizing ideas, tasks, and daily notes with local storage & cloud sync.
 
-**Live Demo:** https://your-link.vercel.app
+**Live Demo:** https://david01afolayan.github.io/Note-App/
 **Repo:** https://github.com/David01Afolayan/Note-App
 
 ## Features
